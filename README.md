@@ -49,7 +49,8 @@ The **Microsoft Azure Quiz & Note Reading Study App** is designed to assist user
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+file for details.
 
 ## Contact
 For any inquiries, please contact [danielabera285@gmail.com](mailto:danielabera285@gmail.com).
