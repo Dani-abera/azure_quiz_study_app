@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042758758372",
+    "project_id": "azurequizstudyapp",
+    "storage_bucket": "azurequizstudyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042758758372:android:43d18b8eb6e5a07a3b61f1",
+        "android_client_info": {
+          "package_name": "com.example.azure_quiz_study_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdP978l2trj5LFBrQdwJK5HG3In2fpEWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
